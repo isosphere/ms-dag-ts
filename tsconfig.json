@@ -9,7 +9,7 @@
 		"sourceMap": true,
 		"sourceRoot": "./src",
 		"emitDecoratorMetadata": true,
-    "experimentalDecorators": true,
+		"experimentalDecorators": true,
 		"declaration": true
 	},
 	"exclude": [
