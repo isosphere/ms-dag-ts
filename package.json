@@ -5,7 +5,6 @@
   "main": "dist/index.js",
   "typings": "dist/index",
   "scripts": {
-    "postinstall": "typings install",
     "prepublish": "npm run build",
     "prebuild": "rimraf dist",
     "build": "tsc || exit 0",
